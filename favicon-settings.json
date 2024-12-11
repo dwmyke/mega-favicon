@@ -1,0 +1,26 @@
+{
+  "icon": {
+    "desktop": {
+      "regularIconTransformation": {
+        "type": "none"
+      },
+      "darkIconType": "none"
+    },
+    "touch": {
+      "transformation": {
+        "type": "none"
+      },
+      "appTitle": "Mega Ultra Studios"
+    },
+    "webAppManifest": {
+      "transformation": {
+        "type": "none"
+      },
+      "backgroundColor": "#ffa852",
+      "name": "Mega Ultra Studios",
+      "shortName": "Mega Ultra",
+      "themeColor": "#73186b"
+    }
+  },
+  "path": "/"
+}
